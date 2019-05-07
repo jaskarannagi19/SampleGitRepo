@@ -1,0 +1,14 @@
+Mission:Deface GOP khyber phaktoon
+
+target:housingkp.gov.pk
+version:5.6.27
+database:housing_website
+username:housing_kashif@localhost
+
+Table Project
+id 
+name
+long
+lat
+folder
+
