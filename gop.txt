@@ -12,3 +12,5 @@ long
 lat
 folder
 
+Some body working change this file in git from there computer
+
